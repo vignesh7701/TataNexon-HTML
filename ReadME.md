@@ -7,4 +7,4 @@ Ratan Naval Tata is an Indian industrialist, philanthropist, and former chairman
 
 ## Click the logo the below to go the landing page of Tata Nexon
 
-[![ TataNexon](https://i.ibb.co/2KZSjBr/logo.png)]()
+[![ TataNexon](https://i.ibb.co/2KZSjBr/logo.png)](https://vignesh7701.github.io/LandingPage-TataNexon/)
